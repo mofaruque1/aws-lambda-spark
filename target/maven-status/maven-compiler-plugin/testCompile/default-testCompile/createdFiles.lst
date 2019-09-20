@@ -1,0 +1,14 @@
+com/omor/lambda/RequestStreamLambdaHandlerTest.class
+com/omor/lambda/TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
+com/omor/lambda/TestUtils$TestJacksonMapperModule.class
+com/omor/lambda/TestUtils$DynamodbEventMixin.class
+com/omor/lambda/TestContext$TestLogger.class
+com/omor/lambda/TestContext.class
+com/omor/lambda/TestUtils$DynamodbEventMixin$StreamRecordMixin.class
+com/omor/lambda/TestUtils.class
+com/omor/lambda/TestUtils$DynamodbEventMixin$AttributeValueMixIn.class
+com/omor/lambda/TestUtils$1.class
+com/omor/lambda/TestUtils$DateTimeDeserializer.class
+com/omor/lambda/TestUtils$DateTimeSerializer.class
+com/omor/lambda/TestUtils$DynamodbEventMixin$RecordMixin.class
+com/omor/lambda/TestContext$1.class
